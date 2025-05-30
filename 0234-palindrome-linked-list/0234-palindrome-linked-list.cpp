@@ -56,7 +56,7 @@ public:
     bool isPalindrome(ListNode* head) {
         ListNode* midNode = middleNode(head);
         ListNode* head2 = midNode->next;
-        // midNode->next = NULL;
+        midNode->next = NULL;
 
         ListNode* prev = NULL;
         ListNode* curr = head2;
