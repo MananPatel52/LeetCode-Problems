@@ -4,7 +4,7 @@ public:
         if(list1==NULL) return list2;
         if(list2==NULL) return list1;
 
-        ListNode* ans = new ListNode(-1);
+        ListNode* ans = new ListNode(0);
         ListNode* mptr = ans;
         while(list1 && list2){
             if(list1->val <= list2->val){
