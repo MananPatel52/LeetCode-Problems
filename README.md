@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0010-regular-expression-matching) |
+| [0234-palindrome-linked-list](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -29,4 +30,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/MananPatel52/LeetCode-Problems/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
