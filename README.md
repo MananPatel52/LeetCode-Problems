@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0066-plus-one) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/MananPatel52/LeetCode-Problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Tree
 |  |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
+## Array
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
