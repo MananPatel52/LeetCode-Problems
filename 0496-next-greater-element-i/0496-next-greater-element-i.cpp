@@ -8,7 +8,7 @@ public:
             while(!st.empty() && st.top() <= nums2[i]){
                 st.pop();
             }
-            if(st.empty() || st.top() < nums2[i]) mp[nums2[i]] = -1;
+            if(st.empty() || st.top() <= nums2[i]) mp[nums2[i]] = -1;
             else mp[nums2[i]] = st.top();
             st.push(nums2[i]);
         }
