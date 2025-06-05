@@ -66,11 +66,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0496-next-greater-element-i](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0496-next-greater-element-i](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
