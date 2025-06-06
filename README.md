@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0010-regular-expression-matching) |
+| [0152-maximum-product-subarray](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 ## Recursion
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0066-plus-one) |
+| [0152-maximum-product-subarray](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
