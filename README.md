@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0152-maximum-product-subarray](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Divide and Conquer
 |  |
 | ------- |
