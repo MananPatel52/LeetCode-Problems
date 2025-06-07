@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0010-regular-expression-matching) |
+| [0049-group-anagrams](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0152-maximum-product-subarray](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0242-valid-anagram) |
 ## Prefix Sum
