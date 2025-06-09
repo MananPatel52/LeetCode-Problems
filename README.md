@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0061-rotate-list) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
