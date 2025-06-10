@@ -6,7 +6,7 @@ public:
         int gridCase[9][9] = {0};
 
         for(int i = 0; i<board.size(); i++){
-            for(int j = 0; j<board[0].size(); j++){
+            for(int j = 0; j<board.size(); j++){
                 if(board[i][j] != '.'){
                     int number = board[i][j] - '0';
 
