@@ -4,9 +4,9 @@ public:
         if(nums.size() == 0) return 0;
         sort(nums.begin(), nums.end());
         int n = nums.size();
-        int lastSmaller = INT_MIN;
+        int lastSmaller;
         int count = 0;
-        int longest = 1;
+        int longest = INT_MIN;
         for(int i = 0; i<n; i++){
             if(nums[i]-1==lastSmaller){
                 count+=1;
