@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0066-plus-one) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/MananPatel52/LeetCode-Problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/MananPatel52/LeetCode-Problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Tree
 |  |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0011-container-with-most-water) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/MananPatel52/LeetCode-Problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Binary Tree
 |  |
 | ------- |
