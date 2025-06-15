@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0242-valid-anagram) |
+| [0567-permutation-in-string](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/MananPatel52/LeetCode-Problems/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 ## Dynamic Programming
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
+| [0567-permutation-in-string](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -189,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
