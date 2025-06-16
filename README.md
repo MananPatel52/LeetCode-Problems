@@ -212,4 +212,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0136-single-number) |
+| [0461-hamming-distance](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0461-hamming-distance) |
 <!---LeetCode Topics End-->
