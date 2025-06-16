@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0066-plus-one) |
+| [1372-check-if-it-is-a-good-array](https://github.com/MananPatel52/LeetCode-Problems/tree/master/1372-check-if-it-is-a-good-array) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/MananPatel52/LeetCode-Problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/MananPatel52/LeetCode-Problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/MananPatel52/LeetCode-Problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
+| [1372-check-if-it-is-a-good-array](https://github.com/MananPatel52/LeetCode-Problems/tree/master/1372-check-if-it-is-a-good-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/MananPatel52/LeetCode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Hash Table
 |  |
@@ -198,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0567-permutation-in-string) |
+## Number Theory
+|  |
+| ------- |
+| [1372-check-if-it-is-a-good-array](https://github.com/MananPatel52/LeetCode-Problems/tree/master/1372-check-if-it-is-a-good-array) |
 <!---LeetCode Topics End-->
