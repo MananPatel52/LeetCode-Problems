@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-check-if-it-is-a-good-array](https://github.com/MananPatel52/LeetCode-Problems/tree/master/1372-check-if-it-is-a-good-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/MananPatel52/LeetCode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/MananPatel52/LeetCode-Problems/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/MananPatel52/LeetCode-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/MananPatel52/LeetCode-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Hash Table
 |  |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/MananPatel52/LeetCode-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/MananPatel52/LeetCode-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Prefix Sum
 |  |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [1252-break-a-palindrome](https://github.com/MananPatel52/LeetCode-Problems/tree/master/1252-break-a-palindrome) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/MananPatel52/LeetCode-Problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/MananPatel52/LeetCode-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/MananPatel52/LeetCode-Problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/MananPatel52/LeetCode-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Binary Tree
