@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/MananPatel52/LeetCode-Problems/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1252-break-a-palindrome](https://github.com/MananPatel52/LeetCode-Problems/tree/master/1252-break-a-palindrome) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/MananPatel52/LeetCode-Problems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/MananPatel52/LeetCode-Problems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Dynamic Programming
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0567-permutation-in-string) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/MananPatel52/LeetCode-Problems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/MananPatel52/LeetCode-Problems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Monotonic Stack
 |  |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/MananPatel52/LeetCode-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/MananPatel52/LeetCode-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/MananPatel52/LeetCode-Problems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/MananPatel52/LeetCode-Problems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/MananPatel52/LeetCode-Problems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Quickselect
 |  |
@@ -213,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/MananPatel52/LeetCode-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/MananPatel52/LeetCode-Problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/MananPatel52/LeetCode-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/MananPatel52/LeetCode-Problems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Binary Tree
 |  |
 | ------- |
