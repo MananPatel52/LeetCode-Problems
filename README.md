@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/MananPatel52/LeetCode-Problems/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1252-break-a-palindrome](https://github.com/MananPatel52/LeetCode-Problems/tree/master/1252-break-a-palindrome) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0969-number-of-recent-calls](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0969-number-of-recent-calls) |
 ## Array
 |  |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/MananPatel52/LeetCode-Problems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/MananPatel52/LeetCode-Problems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/MananPatel52/LeetCode-Problems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Quickselect
