@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0969-number-of-recent-calls](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0969-number-of-recent-calls) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/MananPatel52/LeetCode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Array
 |  |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1372-check-if-it-is-a-good-array](https://github.com/MananPatel52/LeetCode-Problems/tree/master/1372-check-if-it-is-a-good-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/MananPatel52/LeetCode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/MananPatel52/LeetCode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/MananPatel52/LeetCode-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/MananPatel52/LeetCode-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/MananPatel52/LeetCode-Problems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -263,5 +266,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0987-reveal-cards-in-increasing-order](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/MananPatel52/LeetCode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
