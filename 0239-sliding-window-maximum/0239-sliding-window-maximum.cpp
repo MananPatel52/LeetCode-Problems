@@ -4,26 +4,28 @@ public:
         deque<int> dq;
         vector<int> result;
 
-        for (int i = 0; i < nums.size(); i++) {
-            // Remove elements not in the current window
-            if (!dq.empty() && dq.front() == i - k) {
-                dq.pop_front();
-            }
-            
-            // Remove elements from the back that are smaller than current element
-            while (!dq.empty() && nums[dq.back()] < nums[i]) {
+        for (int i = 0; i < k; i++) {
+            int element = nums[i];
+            while (!dq.empty() && element > nums[dq.back()]) {
                 dq.pop_back();
             }
-            
-            // Add current element to the deque
             dq.push_back(i);
-            
-            // Add maximum to result when window is fully formed
-            if (i >= k - 1) {
-                result.push_back(nums[dq.front()]);
-            }
         }
-        
+
+        for(int i = k; i<nums.size(); i++){
+            result.push_back(nums[dq.front()]);
+
+            if(!dq.empty() && i - dq.front() >= k){
+                dq.pop_front();
+            }
+
+            int element = nums[i];
+            while (!dq.empty() && element > nums[dq.back()]) {
+                dq.pop_back();
+            }
+            dq.push_back(i);
+        }
+        result.push_back(nums[dq.front()]); 
         return result;
 
     }
