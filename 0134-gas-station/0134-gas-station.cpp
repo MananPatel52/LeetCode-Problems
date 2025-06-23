@@ -6,14 +6,11 @@ public:
         int start = 0;
 
         for(int i = 0; i<gas.size(); i++){
-            int temp = balance + gas[i] - cost[i];
-            if(temp < 0){
-                deficit += abs(temp);
+            balance = balance + gas[i] - cost[i];
+            if(balance < 0){
+                deficit += abs(balance);
                 start = i + 1;
                 balance = 0;
-            }
-            else{
-                balance = temp;
             }
         }
         if(balance - deficit >= 0){
