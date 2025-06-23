@@ -5,7 +5,7 @@ public:
         queue<int>q;
         vector<int>ans(deck.size());
 
-        for(int i = 0; i<ans.size(); i++){
+        for(int i = 0; i<deck.size(); i++){
             q.push(i);
         }
         for(int i = 0; i<deck.size(); i++){
