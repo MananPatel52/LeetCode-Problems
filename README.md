@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 ## Recursion
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0136-single-number) |
