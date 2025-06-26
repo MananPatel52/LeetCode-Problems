@@ -19,7 +19,7 @@ public:
         int num = 0;
         int zeros_in_candidate = count(candidate.begin(), candidate.end(), '0');
         for (char c : candidate) {
-            num = (num << 1) + (c - '0');
+            num = stoi(candidate, nullptr, 2);
             if (num > k) {
                 return zeros + (max_len - 1) - zeros_in_candidate;
             }
