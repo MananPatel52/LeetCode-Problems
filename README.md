@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0567-permutation-in-string](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0567-permutation-in-string) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MananPatel52/LeetCode-Problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/MananPatel52/LeetCode-Problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Stack
 |  |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-reveal-cards-in-increasing-order](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1372-check-if-it-is-a-good-array](https://github.com/MananPatel52/LeetCode-Problems/tree/master/1372-check-if-it-is-a-good-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/MananPatel52/LeetCode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MananPatel52/LeetCode-Problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/MananPatel52/LeetCode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/MananPatel52/LeetCode-Problems/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/MananPatel52/LeetCode-Problems/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0778-reorganize-string) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MananPatel52/LeetCode-Problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/MananPatel52/LeetCode-Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/MananPatel52/LeetCode-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/MananPatel52/LeetCode-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MananPatel52/LeetCode-Problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/MananPatel52/LeetCode-Problems/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 ## Divide and Conquer
 |  |
