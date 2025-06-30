@@ -14,8 +14,8 @@ public:
                 st.push(first-second);
             }
             else if(c == "*"){
-                int second = st.top(); st.pop();
                 int first = st.top(); st.pop();
+                int second = st.top(); st.pop();
                 st.push(first*second);
             }
             else if(c == "/"){
