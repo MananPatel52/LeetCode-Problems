@@ -24,16 +24,49 @@ public:
     ListNode* reverseList(ListNode* head) {
         ListNode* prev = NULL;
         ListNode* curr = head;
-        // return reverseUsingRecursion(prev, curr);
-        while(curr != NULL){
 
+        while(curr!=NULL){
             ListNode* nextNode = curr->next;
-
             curr->next = prev;
             prev = curr;
             curr = nextNode;
         }
         return prev;
-    }
-    
+
+    } 
 };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//  ListNode* prev = NULL;
+//         ListNode* curr = head;
+//         // return reverseUsingRecursion(prev, curr);
+//         while(curr != NULL){
+
+//             ListNode* nextNode = curr->next;
+
+//             curr->next = prev;
+//             prev = curr;
+//             curr = nextNode;
+//         }
+//         return prev;
