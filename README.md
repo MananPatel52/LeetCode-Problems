@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/MananPatel52/LeetCode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/MananPatel52/LeetCode-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Math
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/MananPatel52/LeetCode-Problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/MananPatel52/LeetCode-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/MananPatel52/LeetCode-Problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/MananPatel52/LeetCode-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/MananPatel52/LeetCode-Problems/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/MananPatel52/LeetCode-Problems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Tree
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0136-single-number) |
 | [0461-hamming-distance](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0461-hamming-distance) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/MananPatel52/LeetCode-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Combinatorics
 |  |
 | ------- |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0987-reveal-cards-in-increasing-order](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/MananPatel52/LeetCode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/MananPatel52/LeetCode-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Enumeration
 |  |
 | ------- |
