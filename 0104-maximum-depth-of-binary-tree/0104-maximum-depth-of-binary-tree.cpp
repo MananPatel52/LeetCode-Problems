@@ -33,7 +33,7 @@ public:
                     q.push(front->right);
                 }
             } else {
-                cout << endl;
+                // cout << endl;
                 if (!q.empty()) {
                     q.push(NULL);
                     count++;
