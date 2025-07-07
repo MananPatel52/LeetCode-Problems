@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0792-binary-search) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1372-check-if-it-is-a-good-array](https://github.com/MananPatel52/LeetCode-Problems/tree/master/1372-check-if-it-is-a-good-array) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MananPatel52/LeetCode-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/MananPatel52/LeetCode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/MananPatel52/LeetCode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MananPatel52/LeetCode-Problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0778-reorganize-string](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0778-reorganize-string) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MananPatel52/LeetCode-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MananPatel52/LeetCode-Problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/MananPatel52/LeetCode-Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/MananPatel52/LeetCode-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0778-reorganize-string) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MananPatel52/LeetCode-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/MananPatel52/LeetCode-Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Bucket Sort
 |  |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0134-gas-station) |
 | [0778-reorganize-string](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0778-reorganize-string) |
 | [1252-break-a-palindrome](https://github.com/MananPatel52/LeetCode-Problems/tree/master/1252-break-a-palindrome) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MananPatel52/LeetCode-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/MananPatel52/LeetCode-Problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/MananPatel52/LeetCode-Problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/MananPatel52/LeetCode-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
