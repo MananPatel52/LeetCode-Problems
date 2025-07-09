@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/MananPatel52/LeetCode-Problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/MananPatel52/LeetCode-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/MananPatel52/LeetCode-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/MananPatel52/LeetCode-Problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/MananPatel52/LeetCode-Problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/MananPatel52/LeetCode-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/MananPatel52/LeetCode-Problems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/MananPatel52/LeetCode-Problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Binary Tree
 |  |
 | ------- |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/MananPatel52/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/MananPatel52/LeetCode-Problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Number Theory
 |  |
 | ------- |
